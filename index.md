@@ -1,7 +1,9 @@
 ## sagnik basumallik
 
 **research scientist**, west virginia university
+
 smart grid resiliency and analytics lab
+
 lane department of computer science and electrical engineering
 
 
