@@ -6,7 +6,8 @@ research scientist, west virginia university
 
 previous
 
-1. assistant professor (teaching), university of colorado, boulder
+1. assistant professor (teaching), university of colorado, boulder, 2021 - 2022
+2. ph.d. fellow, syracuse university, 2015 - 2021
 
 **Bold** and _Italic_ and `Code` text
 
