@@ -26,4 +26,4 @@
 
 ## others
 
-[दर्शन] [कला] [संगीत] [साहित्य](https://github.com/sagnikbm/homepage/blob/gh-pages/literature) [चित्र]
+[दर्शन] [कला] [संगीत] [साहित्य](literature.MD) [चित्र]
