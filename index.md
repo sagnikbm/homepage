@@ -1,6 +1,12 @@
 ## sagnik basumallik
 
-1. research scientist, west virginia university, 2022 - present
+research scientist, west virginia university
+smart grid resiliency and analytics lab
+lane department of computer science and electrical engineering
+
+
+## Previous 
+
 2. assistant professor (teaching), university of colorado, boulder, 2021 - 2022
 3. ph.d. fellow, syracuse university, 2015 - 2021
 
