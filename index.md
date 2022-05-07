@@ -2,7 +2,7 @@
 
 **research scientist**, west virginia university
 
-smart grid resiliency and analytics lab
+[smart grid resiliency and analytics lab](https://resilientpowergrid.ai/index.html)
 
 lane department of computer science and electrical engineering
 
