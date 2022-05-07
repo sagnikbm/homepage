@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 logo: https://github.com/sagnikbm/homepage/blob/gh-pages/Basumallik_Sagnik_h.jpg?raw=true
 title: sagnik basumallik
-description: research scientist, <a href="https://resilientpowergrid.ai">smart grid resiliency and analytics lab</a>, west virginia university, lane department of computer science and electrical engineering
+description: research scientist, <br><br> <a href="https://resilientpowergrid.ai">smart grid resiliency and analytics lab</a> <br><br> west virginia university <br><br> lane department of computer science and electrical engineering
 github:
   is_project_page: false
 
