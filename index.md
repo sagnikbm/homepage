@@ -1,3 +1,14 @@
+## advisors
+
+1. dr. anurag srivastava
+2. dr. sara eftekharnejad
+3. dr. makan fardad
+4. dr. brian johnson
+5. dr. mingguo hong
+6. dr. slava maslennikov
+7. dr. s. v. kulkarni
+8. dr. prithwiraj purkait 
+
 ## selected publications
 
 1. basumallik, s., ma, r. and eftekharnejad, s., 2019. packet-data anomaly detection in pmu-based state estimator using convolutional neural network. international journal of electrical power & energy systems, 107, pp.690-702.
