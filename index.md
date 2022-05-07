@@ -12,4 +12,6 @@
 3. linear systems
 4. probability theory
 
+# personal
+
 [Phiosophy] [Art] [Music] [Literature] [Photography]
