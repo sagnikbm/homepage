@@ -1,6 +1,6 @@
-## advisors
+## advisors / guides
 
-1. dr. anurag srivastava
+1. [dr. anurag srivastava](https://scholar.google.com/citations?user=_GtNYPMAAAAJ&hl=en)
 2. dr. sara eftekharnejad
 3. dr. makan fardad
 4. dr. brian johnson
