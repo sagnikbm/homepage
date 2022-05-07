@@ -10,7 +10,7 @@
 8. [dr. s. v. kulkarni](https://scholar.google.com/citations?user=udLCYSQAAAAJ&hl=en&oi=ao)
 9. [dr. prithwiraj purkait](https://scholar.google.com/citations?user=CaYdey0AAAAJ&hl=en&oi=ao)
 
-## selected publications
+## recent publications
 
 1. basumallik, s., ma, r. and eftekharnejad, s., 2019. packet-data anomaly detection in pmu-based state estimator using convolutional neural network. international journal of electrical power & energy systems, 107, pp.690-702.
 2. basumallik, s., eftekharnejad, s. and johnson, b.k., 2020. the impact of false data injection attacks against remedial action schemes. international journal of electrical power & energy systems, 123, p.106225.
