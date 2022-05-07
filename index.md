@@ -14,4 +14,4 @@
 
 ## others
 
-[Phiosophy] [Art] [Music] [Literature] [Photography]
+[दर्शन] [कला] [संगीत] [साहित्य] [चित्र]
