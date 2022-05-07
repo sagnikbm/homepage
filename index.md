@@ -5,4 +5,4 @@
 3. ma, r., basumallik, s. and eftekharnejad, s., 2020. a pmu-based data-driven approach for classifying power system events considering cyberattacks. ieee systems journal, 14(3), pp.3558-3569.
 4. ma, r., basumallik, s., eftekharnejad, s. and kong, f., 2021. a data-driven model predictive control for alleviating thermal overloads in the presence of possible false data. ieee transactions on industry applications, 57(2), pp.1872-1881.
 
-[Art] [Music] [Literature] [Photography]
+[Phiosophy] [Art] [Music] [Literature] [Photography]
