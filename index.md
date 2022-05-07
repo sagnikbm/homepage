@@ -1,12 +1,12 @@
 ## sagnik basumallik
 
-Research Scientist, West Virginia University
+research scientist, west virginia university
 
 ### Markdown
 
-Previous
+previous
 
-1. Assistant Professor (Teaching), University of Colorado, Boulder
+1. assistant professor (teaching), university of colorado, boulder
 
 **Bold** and _Italic_ and `Code` text
 
