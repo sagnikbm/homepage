@@ -7,7 +7,7 @@
 
 ## teaching
 
-1. control systems (theory and lab)
+1. control systems (theory and laboratory)
 2. power systems
 3. linear systems
 4. probability theory
