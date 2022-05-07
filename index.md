@@ -1,13 +1,14 @@
 ## advisors / guides
 
-1. [dr. anurag srivastava](https://scholar.google.com/citations?user=_GtNYPMAAAAJ&hl=en)
-2. dr. sara eftekharnejad
-3. dr. makan fardad
-4. dr. brian johnson
-5. dr. mingguo hong
-6. dr. slava maslennikov
-7. dr. s. v. kulkarni
-8. dr. prithwiraj purkait 
+1. [dr. anurag srivastava](https://scholar.google.com/citations?user=_GtNYPMAAAAJ&hl=en), WVU
+2. dr. sara eftekharnejad, SU
+3. dr. makan fardad, SU
+4. dr. brian johnson, UI
+5. dr. mingguo hong, ISO-NE
+6. dr. slava maslennikov, ISO-NE
+7. dr. dimitrios katramatos, BNL
+8. dr. s. v. kulkarni, IIT-B
+9. dr. prithwiraj purkait, JU
 
 ## selected publications
 
