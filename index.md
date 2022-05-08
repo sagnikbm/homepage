@@ -14,7 +14,7 @@
 
 ### [teaching](teaching.MD)
 
-### biodata
+### biodata(biodata.MD)
 
 ### [दर्शन](philosophy.MD)
 
