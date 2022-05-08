@@ -5,7 +5,7 @@
 *san juan national forest, colorado 2022*
 
 ![image](/assets/images/tr3.jpg)
-*valley of the gods, 2022*
+*valley of the gods, utah, 2022*
 
 ![image](/assets/images/tr4.jpg)
 *gooseneck state park, utah, 2022*
