@@ -1,6 +1,6 @@
 ## advisors / mentors
 
-*Any helpfulknowledge you find here is because of my advisors/mentors, any unwarranted mistake is a result of my own shortcoming*
+*Any helpful knowledge you find here comes from my advisors/mentors, any mistake is a result of my own shortcoming*
 
 1. [dr. anurag srivastava](https://scholar.google.com/citations?user=_GtNYPMAAAAJ&hl=en)
 2. [dr. sara eftekharnejad](https://scholar.google.com/citations?user=aX8tcT4AAAAJ&hl=en&oi=ao)
