@@ -16,7 +16,4 @@
 
 ## awards
 
-## feedback
-
-## others
-[दर्शन](philosophy.MD) [चित्र]
+## [दर्शन](philosophy.MD)
