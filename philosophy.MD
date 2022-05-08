@@ -1,10 +1,10 @@
 | Date  | Book |
 | ------------- | ------------- |
-| 2017  | भगवद्-गीता - Bhagawad Gita  |
-| 2018  | রামকৃষ্ণ কথামৃত - Ramakrishna kathamrita |
+| 2017  | भगवद्-गीता - bhagawad gita  |
+| 2018  | রামকৃষ্ণ কথামৃত - ramakrishna kathamrita |
 | 2019  | ismaili |
-| 2019  | القرآن - Quran (ongoing) |
-| 2020  | The Trial and Death of Socrates |
-| 2021  | পঞ্চদশী - Panchadasi (ongoing) |
-| 2022  | चार्वाक - Charvakya (ongoing) |
+| 2019  | القرآ - quran (ongoing) |
+| 2020  | the trial and death of socrates |
+| 2021  | পঞ্চদশী - panchadasi (ongoing) |
+| 2022  | चार्वाक - charvakya (ongoing) |
 | 2022  | লালনগীতি - songs of lalon (ongoing) |
