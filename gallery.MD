@@ -1,1 +1,1 @@
-![milky way](/homepage/gallery/tr1.jpg)
+![milky way](homepage/gallery/tr1.jpg)
