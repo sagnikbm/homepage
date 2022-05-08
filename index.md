@@ -10,8 +10,6 @@
 8. [dr. s. v. kulkarni](https://scholar.google.com/citations?user=udLCYSQAAAAJ&hl=en&oi=ao)
 9. [dr. prithwiraj purkait](https://scholar.google.com/citations?user=CaYdey0AAAAJ&hl=en&oi=ao)
 
-*Any helpful knowledge you find here comes from my advisors/mentors, any mistake is a result of my own shortcoming*
-
 ## recent publications
 
 1. ma, r., basumallik, s., eftekharnejad, s. and kong, f., 2021. a data-driven model predictive control for alleviating thermal overloads in the presence of possible false data. ieee transactions on industry applications, 57(2), pp.1872-1881.
