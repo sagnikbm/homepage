@@ -14,6 +14,8 @@
 
 ### [teaching](teaching.MD)
 
-### awards
-
 ### [दर्शन](philosophy.MD)
+
+### gallery
+
+### others
