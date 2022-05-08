@@ -17,12 +17,11 @@
 3. ma, r., basumallik, s. and eftekharnejad, s., 2020. a pmu-based data-driven approach for classifying power system events considering cyberattacks. ieee systems journal, 14(3), pp.3558-3569.
 4. basumallik, s., ma, r. and eftekharnejad, s., 2019. packet-data anomaly detection in pmu-based state estimator using convolutional neural network. international journal of electrical power & energy systems, 107, pp.690-702.
 
-## teaching
+## [teaching](teaching.MD)
 
-1. control systems (theory and laboratory)
-2. power systems
-3. linear systems
-4. probability theory
+## awards
+
+## feedback
 
 ## others
 [दर्शन](philosophy.MD) [चित्र]
