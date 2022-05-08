@@ -8,6 +8,7 @@
 |**west bengal university**|b.tech|2010 - 2014|
 
 ## jobs and internship
+
 | institution  | position | year |
 | ------------- | ------------- | ------------- |
 |independent system operator, new england|intern|2020|
