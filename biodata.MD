@@ -11,11 +11,11 @@
 
 | institution  | position | year |
 | ------------- | ------------- | ------------- |
-|independent system operator, new england|intern|2020|
-|brookhaven national lab, new york|visiting researcher|2019|
-|tata consultancy service (eis)|engineer|2014|
-|siemens, mumbai|intern|2013|
-|indian institute of technology, bombay|undergraduate researcher|2012|
-|durgapur projects limited, india|intern|2012|
+|**independent system operator, new england**|intern|2020|
+|**brookhaven national lab, new york**|visiting researcher|2019|
+|**tata consultancy service (eis), pune**|engineer|2014|
+|**siemens, mumbai**|intern|2013|
+|**indian institute of technology, mumbai**|undergraduate researcher|2012|
+|**durgapur projects limited, india**|intern|2012|
 
 
