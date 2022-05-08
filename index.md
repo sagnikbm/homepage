@@ -14,10 +14,10 @@
 
 ### [teaching](teaching.MD)
 
-### biodata(biodata.MD)
+### [biodata](biodata.MD)
 
 ### [दर्शन](philosophy.MD)
 
-### gallery(gallery.MD)
+### [gallery](gallery.MD)
 
 ### others
