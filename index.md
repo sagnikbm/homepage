@@ -1,7 +1,5 @@
 ## advisors / mentors
 
-*Any helpful knowledge you find here comes from my advisors/mentors, any mistake is a result of my own shortcoming*
-
 1. [dr. anurag srivastava](https://scholar.google.com/citations?user=_GtNYPMAAAAJ&hl=en)
 2. [dr. sara eftekharnejad](https://scholar.google.com/citations?user=aX8tcT4AAAAJ&hl=en&oi=ao)
 3. [dr. makan fardad](https://scholar.google.com/citations?user=jWb94BoAAAAJ&hl=en&oi=ao)
@@ -11,6 +9,8 @@
 7. [dr. dimitrios katramatos](https://www.bnl.gov/staff/Dkatramatos)
 8. [dr. s. v. kulkarni](https://scholar.google.com/citations?user=udLCYSQAAAAJ&hl=en&oi=ao)
 9. [dr. prithwiraj purkait](https://scholar.google.com/citations?user=CaYdey0AAAAJ&hl=en&oi=ao)
+
+*Any helpful knowledge you find here comes from my advisors/mentors, any mistake is a result of my own shortcoming*
 
 ## recent publications
 
