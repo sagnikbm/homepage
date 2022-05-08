@@ -1,4 +1,4 @@
-**University of Colorado, Boulder**
+**university of colorado, boulder**
 
 1. control systems laboratory 
 2. linear systems
@@ -6,7 +6,7 @@
 4. power systems
 5. control systems
 
-**Syracuse University**
+**syracuse university**
 
 1. power systems
 2. introduction to data science
