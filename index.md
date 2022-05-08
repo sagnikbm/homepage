@@ -1,4 +1,4 @@
-### advisors / mentors
+## advisors / mentors
 
 1. [dr. anurag srivastava](https://scholar.google.com/citations?user=_GtNYPMAAAAJ&hl=en)
 2. [dr. sara eftekharnejad](https://scholar.google.com/citations?user=aX8tcT4AAAAJ&hl=en&oi=ao)
@@ -10,14 +10,13 @@
 8. [dr. s. v. kulkarni](https://scholar.google.com/citations?user=udLCYSQAAAAJ&hl=en&oi=ao)
 9. [dr. prithwiraj purkait](https://scholar.google.com/citations?user=CaYdey0AAAAJ&hl=en&oi=ao)
 
-### [publications](publications.MD)
+## [publications](publications.MD)
 
-### [teaching](teaching.MD)
+## [teaching](teaching.MD)
 
-### [biodata](biodata.MD)
+## [biodata](biodata.MD)
 
-### [दर्शन](philosophy.MD)
+## [दर्शन](philosophy.MD)
 
-### [gallery](gallery.MD)
+## [gallery](gallery.MD)
 
-### others
