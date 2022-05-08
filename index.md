@@ -25,4 +25,4 @@
 4. probability theory
 
 ## others
-
+[दर्शन](philosophy.MD) [चित्र]
