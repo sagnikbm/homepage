@@ -6,3 +6,4 @@
 | 2020  | The Trial and Death of Socrates |
 | 2021  | পঞ্চদশী - Panchadasi (ongoing) |
 | 2022  | चार्वाक - Charvakya (ongoing) |
+| 2022  | লালনগীতি - songs of lalon (ongoing) |
