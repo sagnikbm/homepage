@@ -10,9 +10,9 @@
 8. [dr. s. v. kulkarni](https://scholar.google.com/citations?user=udLCYSQAAAAJ&hl=en&oi=ao)
 9. [dr. prithwiraj purkait](https://scholar.google.com/citations?user=CaYdey0AAAAJ&hl=en&oi=ao)
 
-## [publications](publications.MD) [teaching](teaching.MD)
+## [publications](publications.MD) | [teaching](teaching.MD) | [service]() 
 
-## [service]() [biodata](biodata.MD)
+## [biodata](biodata.MD) | [awards]()
 
 ## [दर्शन](philosophy.MD) [gallery](gallery.MD)
 
