@@ -14,5 +14,5 @@
 
 ## [biodata](biodata.MD) | [awards](award.MD)
 
-## [दर्शन](philosophy.MD) | [gallery](gallery.MD)
+## [दर्शन](philosophy.MD) | [चित्रों](gallery.MD)
 
