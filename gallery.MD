@@ -19,14 +19,14 @@
 ![image](/assets/images/tr7.jpg)
 *shiprock, new mexico, 2022*
 
-![image](/assets/images/tr8.jpg)
+![image](/assets/images/tr8.jfif)
 *arches national park, utah 2022*
 
-![image](/assets/images/tr9.jpg)
+![image](/assets/images/tr9.jfif)
 *balancing rock, utah, 2022*
 
-![image](/assets/images/tr10.jpg)
+![image](/assets/images/tr10.jfif)
 *arches national park, utah 2022*
 
-![image](/assets/images/tr11.jpg)
+![image](/assets/images/tr11.jfif)
 *fisher towers, utah 2022*
