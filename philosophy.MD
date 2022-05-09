@@ -1,6 +1,7 @@
 | Date  | Book |
 | ------------- | ------------- |
 | 2017  | भगवद्-गीता - bhagawad gita  |
+| 2018  | the symbolism of hindu gods and rituals| 
 | 2018  | রামকৃষ্ণ কথামৃত - ramakrishna kathamrita |
 | 2019  | ismaili |
 | 2019  | the gita and quran: a comparative study
