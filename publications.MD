@@ -8,3 +8,18 @@
 
 **conferences**
 
+1. basumallik sagnik, liu, ying, katramatos, dimitrios, yoo, shinjae, real-time distribution state estimation with massive
+μpmu streaming data, the 11th conference on innovative smart grid technologies (isgt 2020), february, washington dc.
+2. basumallik sagnik, eftekharnejad, sara, dynamic islanding in power systems based on real-time operating conditions,
+2019 north american power symposium (naps), wichita, kansas, october 2019.
+3. basumallik sagnik, eftekharnejad, sara, davis, nathan and johnson, brian k, impact of false data injection attacks on
+pmu-based state estimation, in power symposium (naps), 2017 north american, ieee, 2017.
+4. basumallik sagnik, eftekharnejad, sara, davis, nathan, nuthalapati, nagarjuna, and johnson, brian k, cyber security
+considerations on pmu-based state estimation, in proceedings of the fifth cybersecurity symposium, p.14.acm,2018.
+5. basumallik sagnik, p. purkait, nimesh mohandas, and s. v. kulkarni, analysis of variations in measured recovery voltage
+peaks due to presence of moisture in insulation of power transformers, in condition assessment techniques in electrical systems
+(catcon), 2013 ieee 1st international conference on, ieee, 2013.
+6. cheng lyu, basumallik sagnik, sara eftekharnejad, chongfang xu, a data-driven solar irradiance forecasting model with
+minimum data, 2021 ieee texas power and energy conference.
+7. ma, rui, basumallik sagnik, eftekharnejad, sara, recovery-based model predictive control for cascade mitigation under
+cyber-physical attacks, texas power and energy conference, 2020
