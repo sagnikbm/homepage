@@ -9,4 +9,5 @@
 | 2021  | बृहदारण्यक उपनिषद् - brihadaranyaka upanishad (ongoing) |
 | 2021  | পঞ্চদশী - panchadasi (ongoing) |
 | 2022  | चार्वाक - charvakya (ongoing) |
-| 2022  | লালনগীতি - songs of lalon (ongoing) |
+| 2022  | লালনগীতি - songs of lalon |
+| 2022  | indian temple architecture (ongoing) |
