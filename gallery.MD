@@ -31,5 +31,40 @@
 ![image](/assets/images/tr11.jfif)
 *fisher towers, utah 2022*
 
-![image](/assets/images/IMG_20220320_181328.jpg)
-*West Virginia University, 2022*
+![image](/assets/images/tr12.jpeg)
+*TBD*
+
+![image](/assets/images/tr13.jpeg)
+*TBD*
+
+![image](/assets/images/tr14.jpg)
+*TBD*
+
+![image](/assets/images/tr15.jpg)
+*TBD*
+
+
+![image](/assets/images/tr16.jpg)
+*TBD*
+
+
+![image](/assets/images/tr17.jpg)
+*TBD*
+
+![image](/assets/images/tr18.jpg)
+*TBD*
+
+![image](/assets/images/tr19.jpg)
+*TBD*
+
+![image](/assets/images/tr20.jpg)
+*TBD*
+
+![image](/assets/images/tr21.jpg)
+*TBD*
+
+![image](/assets/images/tr22.jpg)
+*TBD*
+
+![image](/assets/images/tr23.jpg)
+*TBD*
