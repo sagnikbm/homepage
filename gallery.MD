@@ -17,9 +17,6 @@
 ![image](/assets/images/tr19.jpg)
 *rocky mountain national park, colorado, 2022*
 
-![image](/assets/images/tr20.jpg)
-*rocky mountain national park, colorado, 2022*
-
 ![image](/assets/images/tr21_1.jpg)
 *rocky mountain national park, colorado, 2022*
 
