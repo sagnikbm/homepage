@@ -1,35 +1,35 @@
 
 ![image](/assets/images/tr14.jpg)
-*TBD*
+*garden of the gods, colorado, 2022*
 
 ![image](/assets/images/tr15.jpg)
-*TBD*
+*paint mines, colorado 2022*
 
 
 ![image](/assets/images/tr16.jpg)
-*TBD*
+*paint mines, colorado 2022*
 
 
 ![image](/assets/images/tr17.jpg)
-*TBD*
+*colorado, 2022*
 
 ![image](/assets/images/tr18.jpg)
-*TBD*
+*colorado, 2022*
 
 ![image](/assets/images/tr19.jpg)
-*TBD*
+*rocky mountain national park, colorado, 2022*
 
 ![image](/assets/images/tr20.jpg)
-*TBD*
+*rocky mountain national park, colorado, 2022*
 
 ![image](/assets/images/tr21.jpg)
-*TBD*
+*rocky mountain national park, colorado, 2022*
 
 ![image](/assets/images/tr22.jpg)
-*TBD*
+*rocky mountain national park, colorado, 2022*
 
 ![image](/assets/images/tr23.jpg)
-*TBD*
+*denver downtown, colorado, 2022*
 
 ![image](/assets/images/tr1.jpg)
 *utah, 2022*
