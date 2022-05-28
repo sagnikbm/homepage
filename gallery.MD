@@ -5,10 +5,8 @@
 ![image](/assets/images/tr15.jpg)
 *paint mines, colorado 2022*
 
-
 ![image](/assets/images/tr16.jpg)
 *paint mines, colorado 2022*
-
 
 ![image](/assets/images/tr17.jpg)
 *colorado, 2022*
@@ -22,7 +20,7 @@
 ![image](/assets/images/tr20.jpg)
 *rocky mountain national park, colorado, 2022*
 
-![image](/assets/images/tr21.jpg)
+![image](/assets/images/tr21_1.jpg)
 *rocky mountain national park, colorado, 2022*
 
 ![image](/assets/images/tr22.jpg)
@@ -65,8 +63,8 @@
 *fisher towers, utah 2022*
 
 ![image](/assets/images/tr12.jpeg)
-*TBD*
+*west virginia university, west virginia, 2022*
 
 ![image](/assets/images/tr13.jpeg)
-*TBD*
+*sgreal laboratory, west virginia university, 2022*
 
