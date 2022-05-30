@@ -1,3 +1,8 @@
+![image](/assets/images/tr25.jpg)
+*new vrindavan, west virginia, 2022*
+
+![image](/assets/images/tr24.jpg)
+*new vrindavan, west virginia, 2022*
 
 ![image](/assets/images/tr14.jpg)
 *garden of the gods, colorado, 2022*
