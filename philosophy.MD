@@ -12,4 +12,5 @@
 | 2022  | লালনগীতি - songs of lalon |
 | 2022  | indian temple architecture (ongoing) |
 | 2022  | ईशोपनिषद् - isha upanishad |
-| 2022  | केनौपनिषद् - kena upanishad |
+| 2022  | केनौपनिषद् - kena upanishad |ी
+| 2022  | शिक्षापत्र - shikshapatri  |
