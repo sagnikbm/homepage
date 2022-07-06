@@ -1,6 +1,7 @@
 | Date  | Book |
 | ------------- | ------------- |
-| 2022  | நான் யார் - Who Am I?, Sri Ramana Maharshi |
+| 2022  | दृग्दृश्य विवेक: - Drig Drsya Viveka |
+| 2022  | நான் யார் - Who Am I? |
 | 2022  | कठोपनिषद् - Kaṭhopaniṣad |  
 | 2022  | शिक्षापत्री - shikshapatri |
 | 2022  | केनौपनिषद् - kena upanishad |
