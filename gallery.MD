@@ -1,4 +1,4 @@
-![image](/assets/images/tr32.jpg)
+![image](/assets/images/tr33.jpg)
 *sgreal laboratory, west virginia university, 2022*
 
 ![image](/assets/images/tr32.jpg)
