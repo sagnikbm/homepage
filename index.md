@@ -1,4 +1,4 @@
-## Advisors / Mentors
+## गुरु <!--- Advisors / Mentors -->
 
 1. [dr. anurag srivastava](https://scholar.google.com/citations?user=_GtNYPMAAAAJ&hl=en)
 2. [dr. sara eftekharnejad](https://scholar.google.com/citations?user=aX8tcT4AAAAJ&hl=en&oi=ao)
