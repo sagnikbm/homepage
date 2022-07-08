@@ -10,10 +10,11 @@
 8. [dr. s. v. kulkarni](https://scholar.google.com/citations?user=udLCYSQAAAAJ&hl=en&oi=ao)
 9. [dr. prithwiraj purkait](https://scholar.google.com/citations?user=CaYdey0AAAAJ&hl=en&oi=ao)
 
-## [publications](publications.MD) | [teaching](teaching.MD) | [service](service.MD) 
-
-## [biodata](biodata.MD) | [awards](award.MD)
-
-## [reading](philosophy.MD) | [gallery](gallery.MD)
+<!--- ## [publications](publications.MD) | [teaching](teaching.MD) | [service](service.MD)-->
+## [प्रकाशनों](publications.MD) | [शिक्षण](teaching.MD) | [सेवा](service.MD) 
+<!-- ## [biodata](biodata.MD) | [awards](award.MD)-->
+## [parchee](biodata.MD) | [पुरस्कार](award.MD)
+<!--## [reading](philosophy.MD) | [gallery](gallery.MD)-->
+## [तपस्या](philosophy.MD) | [गेलरी](gallery.MD)
 
 *यावत् जीवेत् सुखम् जीवेत्। ऋणं कृत्वा घृतं पिबेत्। भस्मिभूतस्य देहस्य पुनरागमनं कुतः।*
