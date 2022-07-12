@@ -1,5 +1,6 @@
 | Date  | Book |
 | ------------- | ------------- |
+| 2022  | विवेकचूडामणि - Vivekachudamani (ongoing) |
 | 2022  | दृग्दृश्य विवेक: - Drig Drsya Viveka |
 | 2022  | நான் யார் - Who Am I? |
 | 2022  | कठोपनिषद् - Kaṭhopaniṣad |  
@@ -27,11 +28,6 @@ To read list:
 திருமுறை - Thirumurai 
 பெரிய‌ புராண‌ம் - Periya Puranam
 नन्दिनाथ सूत्र - nandinatha sutras
-
-(Advaita Vedanta)
-
-विवेकचूडामणि - Vivekachudamani 
-दृग्-दृश्य-विवेक - Dṛg-Dṛśya-Viveka
 
 
 
