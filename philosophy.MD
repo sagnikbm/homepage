@@ -23,13 +23,6 @@
 
 To read list:
 
-(Tamil philosophy on Shiva)
-
-शैवसिद्धान्तसंग्रह - Saiva Siddhanta Samgrah
-திருமுறை - Thirumurai 
-பெரிய‌ புராண‌ம் - Periya Puranam
-नन्दिनाथ सूत्र - nandinatha sutras
-
 
 
 
