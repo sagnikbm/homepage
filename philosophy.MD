@@ -1,5 +1,6 @@
 | Date  | Book |
 | ------------- | ------------- |
+| 2022  | तत्त्व बोधा - Thattwa Bodha (ongoing) |
 | 2022  | श्री गुरु गीता - Sri Guru Gita (ongoing) |
 | 2022  | विवेकचूडामणि - Vivekachudamani |
 | 2022  | दृग्दृश्य विवेक: - Drig Drsya Viveka |
