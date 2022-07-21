@@ -1,6 +1,7 @@
 | Date  | Book |
 | ------------- | ------------- | 
-| 2022  | योग-वासिष्ठ - वैराग्य प्रकर्णम - Yoga Vasistha - Book 1 (ongoing) |
+| 2022  | योग-वासिष्ठ - मुमुक्षु खंड - Yoga Vasistha - Book 2 (ongoing) |
+| 2022  | योग-वासिष्ठ - वैराग्य प्रकर्णम - Yoga Vasistha - Book 1 |
 | 2022  | तत्त्व बोधा - Thattwa Bodha |
 | 2022  | श्री गुरु गीता - Sri Guru Gita (ongoing) |
 | 2022  | विवेकचूडामणि - Vivekachudamani |
