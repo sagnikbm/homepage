@@ -21,6 +21,8 @@
 
 To be completed:
 
+| Date  | Book |
+| ------------- | ------------- | 
 | 2022  | श्री गुरु गीता - Sri Guru Gita (ongoing) |
 | 2022  | indian temple architecture (ongoing) |
 | 2022  | चार्वाक - charvakya (ongoing) |
