@@ -1,3 +1,6 @@
+![image](/assets/images/tr39.jpg)
+*new vrindavan, west virginia, 2022*
+
 ![image](/assets/images/tr38.jpg)
 *fall fest, west virginia university, 2022*
 
