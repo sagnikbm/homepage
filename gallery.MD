@@ -1,18 +1,21 @@
+![image](/assets/images/tr40.jpg)
+*west virginia, 2022*
+
 ![image](/assets/images/tr39.jpg)
 
 *new vrindavan, west virginia, 2022*
 
 ![image](/assets/images/tr38.jpg)
-*fall fest, west virginia university, 2022*
+*west virginia university, 2022*
 
 ![image](/assets/images/tr37.jpg)
-*welcome week, west virginia university, 2022*
+*west virginia university, 2022*
 
 ![image](/assets/images/tr36.jpg)
 *west virginia university, 2022*
 
 ![image](/assets/images/tr35.jpg)
-*welcome week, west virginia university, 2022*
+*west virginia university, 2022*
 
 ![image](/assets/images/tr34.jpg)
 *west virginia, 2022*
