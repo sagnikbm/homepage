@@ -1,3 +1,6 @@
+![image](/assets/images/tr41.jpg)
+*west virginia, 2022*
+
 ![image](/assets/images/tr40.jpg)
 *west virginia, 2022*
 
