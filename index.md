@@ -12,8 +12,8 @@
 
 ## [publications](publications.MD) | [teaching](teaching.MD) | [service](service.MD)
 <!---## [प्रकाशनों](publications.MD) | [शिक्षण](teaching.MD) | [सेवा](service.MD) -->
-## [biodata](biodata.MD) | [awards](award.MD)
+## [biodata](biodata.MD) | [awards](award.MD) | [reading](philosophy.MD) |
 <!---## [बायोडाटा](biodata.MD) | [पुरस्कार](award.MD)-->
-## [reading](philosophy.MD) | <!--[gallery](gallery.MD)-->
+<!--[gallery](gallery.MD)-->
 <!---## [तपस्या](philosophy.MD) | [गेलरी](gallery.MD)-->
 
