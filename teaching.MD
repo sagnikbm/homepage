@@ -1,6 +1,6 @@
 **west virginia university**
 
-1. senior capstone project
+1. senior design - capstone project
 
 **university of colorado, boulder**
 
