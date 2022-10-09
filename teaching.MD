@@ -1,3 +1,7 @@
+**west virginia university**
+
+1. senior capstone project
+
 **university of colorado, boulder**
 
 1. control systems laboratory 
