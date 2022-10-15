@@ -12,7 +12,7 @@
 
 ## [publications](publications.MD) | [teaching](teaching.MD) | [service](service.MD)
 <!---## [प्रकाशनों](publications.MD) | [शिक्षण](teaching.MD) | [सेवा](service.MD) -->
-## [biodata](biodata.MD) | [awards](award.MD) | [reading](philosophy.MD) |
+## [biodata](biodata.MD) | [reading](philosophy.MD) |
 <!---## [बायोडाटा](biodata.MD) | [पुरस्कार](award.MD)-->
 <!--[gallery](gallery.MD)-->
 <!---## [तपस्या](philosophy.MD) | [गेलरी](gallery.MD)-->
