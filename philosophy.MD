@@ -1,9 +1,10 @@
 | Date  | Book |
 | ------------- | ------------- | 
-| 2022  | योग-वासिष्ठ - उत्पत्ति प्रकरण - Yoga Vasistha - Book 3 (ongoing) |
+| 2022  | kashi - the city illustrious |
+| 2022  | योग-वासिष्ठ - उत्पत्ति प्रकरण - yoga vasistha - book 3 (ongoing) |
 | 2022  | श्री गुरु गीता - Sri Guru Gita |
-| 2022  | योग-वासिष्ठ - मुमुक्षु व्यवहार प्रकरण - Yoga Vasistha - Book 2 |
-| 2022  | योग-वासिष्ठ - वैराग्य प्रकर्णम - Yoga Vasistha - Book 1 |
+| 2022  | योग-वासिष्ठ - मुमुक्षु व्यवहार प्रकरण - yoga vasistha - book 2 |
+| 2022  | योग-वासिष्ठ - वैराग्य प्रकर्णम - yoga vasistha - book 1 |
 | 2022  | तत्त्व बोधा - Thattwa Bodha |
 | 2022  | विवेकचूडामणि - Vivekachudamani |
 | 2022  | दृग्दृश्य विवेक: - Drig Drsya Viveka |
