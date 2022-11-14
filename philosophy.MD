@@ -1,5 +1,6 @@
 | Date  | Book |
 | ------------- | ------------- | 
+| 2022  | योग-वासिष्ठ - स्थिति प्रकरण - yoga vasistha - book 4 (ongoing) |
 | 2022  | kashi - the city illustrious (ongoing) |
 | 2022  | योग-वासिष्ठ - उत्पत्ति प्रकरण - yoga vasistha - book 3 |
 | 2022  | श्री गुरु गीता - Sri Guru Gita |
