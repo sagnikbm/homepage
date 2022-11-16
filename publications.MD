@@ -25,3 +25,7 @@ peaks due to presence of moisture in insulation of power transformers, in condit
 minimum data, 2021 ieee texas power and energy conference.
 7. ma, rui, basumallik sagnik, eftekharnejad, sara, recovery-based model predictive control for cascade mitigation under
 cyber-physical attacks, texas power and energy conference, 2020
+
+** invited talks **
+
+1. islanding during data injection attacks, wecc jsis meeting, 2022
