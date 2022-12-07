@@ -1,7 +1,7 @@
 
 **journals**
 1. a. ahmed, s. k. sadanandan, s. pandey, s. basumallik, a. k. srivastava and y. wu, "event analysis in transmission systems using spatial temporal graph encoder decoder (stged)," in ieee transactions on power systems, doi: 10.1109/tpwrs.2022.3226209.
-2. r. ma, s. basumallik and s. eftekharnejad, "controlled islanding resilience with high penetration of renewable energy resources," in ieee transactions on sustainable energy, 2022, doi: 10.1109/tste.2022.3214421.
+2. r. ma, s. basumallik and s. eftekharnejad, "controlled islanding resilience with high penetration of renewable energy resources," in ieee transactions on sustainable energy, 2022.
 3. c. lyu, s. eftekharnejad, s. basumallik and c. xu, "dynamic feature selection for solar irradiance forecasting based on deep reinforcement learning," in ieee transactions on industry applications, 2022.
 4. basumallik, sagnik, sara eftekharnejad, and makan fardad. 2022. "controlled islanding under complete and partial false data injection attack uncertainties against phasor measurement units" energies 15, no. 15: 5723.
 5. ma, r., basumallik, s., eftekharnejad, s. and kong, f., 2021. a data-driven model predictive control for alleviating thermal overloads in the presence of possible false data. ieee transactions on industry applications, 57(2), pp.1872-1881.
