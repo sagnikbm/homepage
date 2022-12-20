@@ -37,7 +37,10 @@ To be completed:
 | 2022  | चार्वाक - charvakya (ongoing) |
 | 2021  | পঞ্চদশী - panchadasi (ongoing) |
 | 2021  | बृहदारण्यक उपनिषद् - brihadaranyaka upanishad (ongoing) |
-4	स्थिति प्रकरण 5	उपशम प्रकरण
+
+
+
+5	उपशम प्रकरण
 
 
 
