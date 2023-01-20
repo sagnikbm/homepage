@@ -27,6 +27,10 @@ minimum data, 2021 ieee texas power and energy conference.
 7. ma, rui, basumallik sagnik, eftekharnejad, sara, recovery-based model predictive control for cascade mitigation under
 cyber-physical attacks, texas power and energy conference, 2020
 
+**bulletin**
+
+1. basumallik, sagnik, anurag srivastava, arman ahmed, and yinghui wu. "synchrophasor data anomaly detection and classification considering data drift and contextual information.", smart grid bulletin, january 2023
+
 **invited talks**
 
 1. islanding during data injection attacks, wecc jsis meeting, 2022
