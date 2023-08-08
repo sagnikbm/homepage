@@ -27,6 +27,7 @@ peaks due to presence of moisture in insulation of power transformers, in condit
 minimum data, 2021 ieee texas power and energy conference.
 7. ma, rui, basumallik sagnik, eftekharnejad, sara, recovery-based model predictive control for cascade mitigation under
 cyber-physical attacks, texas power and energy conference, 2020
+8. j. buckelew, s. basumallik, v. sivaramakrishnan, a. mukhopadhyay, a. k. srivastava and a. dubey, "synchrophasor data event detection using unsupervised wavelet convolutional autoencoders," 2023 ieee international conference on smart computing (smartcomp), nashville, tn, usa, 2023, pp. 326-331, doi: 10.1109/smartcomp58114.2023.00080.
 
 **bulletin**
 
