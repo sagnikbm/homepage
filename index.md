@@ -10,11 +10,11 @@
 8. [dr. s. v. kulkarni](https://scholar.google.com/citations?user=udLCYSQAAAAJ&hl=en&oi=ao)
 9. [dr. prithwiraj purkait](https://scholar.google.com/citations?user=CaYdey0AAAAJ&hl=en&oi=ao)
 
-## [publications](publications.MD) 
+<!---## [publications](publications.MD) 
 ## [teaching](teaching.MD)
 ## [service](service.MD)
 ## [biodata](biodata.MD) 
-## [reading](philosophy.MD)
+## [reading](philosophy.MD)-->
 <!---## [प्रकाशनों](publications.MD) | [शिक्षण](teaching.MD) | [सेवा](service.MD) -->
 <!---## [बायोडाटा](biodata.MD) | [पुरस्कार](award.MD)-->
 <!--[gallery](gallery.MD)-->
