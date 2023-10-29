@@ -10,6 +10,8 @@
 8. [dr. s. v. kulkarni](https://scholar.google.com/citations?user=udLCYSQAAAAJ&hl=en&oi=ao)
 9. [dr. prithwiraj purkait](https://scholar.google.com/citations?user=CaYdey0AAAAJ&hl=en&oi=ao)
 
+## [Indian Philosophy](philosophy.MD)
+
 <!---## [publications](publications.MD) 
 ## [teaching](teaching.MD)
 ## [service](service.MD)
