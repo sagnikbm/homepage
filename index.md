@@ -5,7 +5,7 @@
 3. [dr. sara eftekharnejad](https://scholar.google.com/citations?user=aX8tcT4AAAAJ&hl=en&oi=ao)
 4. [dr. makan fardad](https://scholar.google.com/citations?user=jWb94BoAAAAJ&hl=en&oi=ao)
 5. [dr. brian k. johnson](https://scholar.google.com/citations?user=sQu2RykAAAAJ&hl=en&oi=ao)
-6. [dr. mingguo hong](https://scholar.google.com/citations?user=BOSWyvUAAAAJ&hl=en&oi=ao)
+6. [dr. mingguo hong](https://www.linkedin.com/in/mingguo-hong-26b57715)
 7. [dr. slava maslennikov](https://scholar.google.com/citations?user=dxIKNi0AAAAJ&hl=en&oi=ao)
 8. [dr. dimitrios katramatos](https://www.bnl.gov/staff/Dkatramatos)
 9. [dr. s. v. kulkarni](https://scholar.google.com/citations?user=udLCYSQAAAAJ&hl=en&oi=ao)
