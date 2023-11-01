@@ -1,14 +1,16 @@
 
 **journals**
-1. foroutan a, basumallik s, srivastava a. estimating and calibrating der model parameters using levenberg–marquardt algorithm in renewable rich power grid. energies. 2023; 16(8):3512. https://doi.org/10.3390/en16083512
-2. a. ahmed, s. k. sadanandan, s. pandey, s. basumallik, a. k. srivastava and y. wu, "event analysis in transmission systems using spatial temporal graph encoder decoder (stged)," in ieee transactions on power systems, doi: 10.1109/tpwrs.2022.3226209.
-3. r. ma, s. basumallik and s. eftekharnejad, "controlled islanding resilience with high penetration of renewable energy resources," in ieee transactions on sustainable energy, 2022.
-4. c. lyu, s. eftekharnejad, s. basumallik and c. xu, "dynamic feature selection for solar irradiance forecasting based on deep reinforcement learning," in ieee transactions on industry applications, 2022.
-5. basumallik, sagnik, sara eftekharnejad, and makan fardad. 2022. "controlled islanding under complete and partial false data injection attack uncertainties against phasor measurement units" energies 15, no. 15: 5723.
-6. ma, r., basumallik, s., eftekharnejad, s. and kong, f., 2021. a data-driven model predictive control for alleviating thermal overloads in the presence of possible false data. ieee transactions on industry applications, 57(2), pp.1872-1881.
-7. basumallik, s., eftekharnejad, s. and johnson, b.k., 2020. the impact of false data injection attacks against remedial action schemes. international journal of electrical power & energy systems, 123, p.106225.
-8. ma, r., basumallik, s. and eftekharnejad, s., 2020. a pmu-based data-driven approach for classifying power system events considering cyberattacks. ieee systems journal, 14(3), pp.3558-3569.
-9. basumallik, s., ma, r. and eftekharnejad, s., 2019. packet-data anomaly detection in pmu-based state estimator using convolutional neural network. international journal of electrical power & energy systems, 107, pp.690-702.
+1. a. ahmed et al., "spatio-temporal deep graph network for event detection, localization and classification in cyber-physical electric distribution system," in ieee transactions on industrial informatics, doi: 10.1109/tii.2023.3290942.
+2. tushar, z. nie, a. srivastava and s. basumallik, "measuring and enabling transmission systems resiliency with renewable wind energy systems," in ieee transactions on industry applications, doi: 10.1109/tia.2023.3328572.
+3. foroutan a, basumallik s, srivastava a. estimating and calibrating der model parameters using levenberg–marquardt algorithm in renewable rich power grid. energies. 2023; 16(8):3512. https://doi.org/10.3390/en16083512
+4. a. ahmed, s. k. sadanandan, s. pandey, s. basumallik, a. k. srivastava and y. wu, "event analysis in transmission systems using spatial temporal graph encoder decoder (stged)," in ieee transactions on power systems, doi: 10.1109/tpwrs.2022.3226209.
+5. r. ma, s. basumallik and s. eftekharnejad, "controlled islanding resilience with high penetration of renewable energy resources," in ieee transactions on sustainable energy, 2022.
+6. c. lyu, s. eftekharnejad, s. basumallik and c. xu, "dynamic feature selection for solar irradiance forecasting based on deep reinforcement learning," in ieee transactions on industry applications, 2022.
+7. basumallik, sagnik, sara eftekharnejad, and makan fardad. 2022. "controlled islanding under complete and partial false data injection attack uncertainties against phasor measurement units" energies 15, no. 15: 5723.
+8. ma, r., basumallik, s., eftekharnejad, s. and kong, f., 2021. a data-driven model predictive control for alleviating thermal overloads in the presence of possible false data. ieee transactions on industry applications, 57(2), pp.1872-1881.
+9. basumallik, s., eftekharnejad, s. and johnson, b.k., 2020. the impact of false data injection attacks against remedial action schemes. international journal of electrical power & energy systems, 123, p.106225.
+10. ma, r., basumallik, s. and eftekharnejad, s., 2020. a pmu-based data-driven approach for classifying power system events considering cyberattacks. ieee systems journal, 14(3), pp.3558-3569.
+11. basumallik, s., ma, r. and eftekharnejad, s., 2019. packet-data anomaly detection in pmu-based state estimator using convolutional neural network. international journal of electrical power & energy systems, 107, pp.690-702.
 
 **conferences**
 
