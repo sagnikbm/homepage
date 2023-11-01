@@ -13,11 +13,11 @@
 
 ## [भारतीय दर्शन (Philosophy of Bharat)](philosophy.MD)
 
-<!---## [publications](publications.MD) 
+## [publications](publications.MD) 
 ## [teaching](teaching.MD)
 ## [service](service.MD)
 ## [biodata](biodata.MD) 
-## [reading](philosophy.MD)-->
+## [reading](philosophy.MD)
 <!---## [प्रकाशनों](publications.MD) | [शिक्षण](teaching.MD) | [सेवा](service.MD) -->
 <!---## [बायोडाटा](biodata.MD) | [पुरस्कार](award.MD)-->
 <!--[gallery](gallery.MD)-->
