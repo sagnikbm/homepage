@@ -11,8 +11,7 @@
 9. [dr. s. v. kulkarni](https://scholar.google.com/citations?user=udLCYSQAAAAJ&hl=en&oi=ao)
 10. [dr. prithwiraj purkait](https://scholar.google.com/citations?user=CaYdey0AAAAJ&hl=en&oi=ao)
 
-## [भारतीय दर्शन (Philosophy of Bharat)](philosophy.MD)
-
+<!---## [भारतीय दर्शन (Philosophy of Bharat)](philosophy.MD)-->
 ## [publications](publications.MD) 
 ## [teaching](teaching.MD)
 ## [service](service.MD)
