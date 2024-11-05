@@ -1,5 +1,5 @@
 <!--- ## गुरु  Advisors / Mentors -->
-## Advisors / Mentors 
+<!---## Advisors / Mentors 
 1. [dr. reza pourramezan](https://scholar.google.ca/citations?user=ihKvgSUAAAAJ&hl=en)
 2. [dr. anurag srivastava](https://scholar.google.com/citations?user=_GtNYPMAAAAJ&hl=en)
 3. [dr. robin podmore](https://www.incsys.com/team/robin-podmore/)
@@ -10,7 +10,7 @@
 8. [dr. slava maslennikov](https://scholar.google.com/citations?user=dxIKNi0AAAAJ&hl=en&oi=ao)
 9. [dr. dimitrios katramatos](https://www.bnl.gov/staff/Dkatramatos)
 10. [dr. s. v. kulkarni](https://scholar.google.com/citations?user=udLCYSQAAAAJ&hl=en&oi=ao)
-11. [dr. prithwiraj purkait](https://scholar.google.com/citations?user=CaYdey0AAAAJ&hl=en&oi=ao)
+11. [dr. prithwiraj purkait](https://scholar.google.com/citations?user=CaYdey0AAAAJ&hl=en&oi=ao)-->
 
 "Rama, O best amongst the inquirers of truth, know that this world is null and void"
 
