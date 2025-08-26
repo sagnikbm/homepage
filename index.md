@@ -12,7 +12,7 @@
 10. [dr. s. v. kulkarni](https://scholar.google.com/citations?user=udLCYSQAAAAJ&hl=en&oi=ao)
 11. [dr. prithwiraj purkait](https://scholar.google.com/citations?user=CaYdey0AAAAJ&hl=en&oi=ao)-->
 
-"Rama, fear not for this world, the mere creation of your error, and without its real existence whatsoever, know that this world is a null and void"
+"Rama, fear not for this world, the mere creation of your error, and without its real existence whatsoever, know that this world is a null and void."
 
 <!---"Rama, O best amongst the inquirers of truth, know that this world is null and void"-->
 
