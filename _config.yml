@@ -1,4 +1,5 @@
-theme: jekyll-theme-midnight # jekyll-theme-minimal
+# theme: jekyll-theme-midnight # jekyll-theme-minimal
+remote_theme: academicpages/academicpages.github.io
 logo: https://github.com/sagnikbm/homepage/blob/gh-pages/SagnikBasumallikLANE-6.jpg?raw=true
 # title: साग्निक बसुमल्लिक
 # title: sagnik basumallik
